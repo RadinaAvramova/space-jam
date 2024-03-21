@@ -1,2 +1,3 @@
-# space-jam
-space-jam
+# SPACE JAM
+
+![gameplay](img/gameplay.png)
