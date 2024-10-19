@@ -17,7 +17,6 @@
     "zip": "node ./scripts/zip.js"
   },
   "author": "",
-  "license": "ISC",
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.29.1",
     "@typescript-eslint/parser": "^4.29.1",
